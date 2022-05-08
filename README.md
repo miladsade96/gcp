@@ -8,3 +8,13 @@ This is the intersection between:
 * Numerical Method for PDEs
 * High Performance Computing
 * Human Computer Interaction
+
+## Project dependencies
+Python 3.10 - meshplot - igl - wildmeshing - polyfempy  
+**Installation:**
+```shell
+conda config --add channels conda-forge
+```
+```shell
+conda install meshplot igl wildmeshing polyfempy
+```
