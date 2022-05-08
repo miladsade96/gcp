@@ -1,4 +1,4 @@
-# gcp
+# GCP
 ## Geometric Computing with Python
 
 
