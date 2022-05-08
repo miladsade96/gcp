@@ -10,7 +10,7 @@ This is the intersection between:
 * Human Computer Interaction
 
 ## Project dependencies
-Python 3.10 - meshplot - igl - wildmeshing - polyfempy  
+Python 3.8 - meshplot - igl - wildmeshing - polyfempy  
 **Installation:**
 ```shell
 conda config --add channels conda-forge
